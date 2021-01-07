@@ -148,3 +148,15 @@ body{
     margin:0;
     height:15em;
 }
+
+.donation-form{
+    padding:65px 0;
+    float:left;
+    position:relative;
+    left:43%;
+}
+#contents{
+    float:left;
+    position:relative;
+    left:-50%;
+}
